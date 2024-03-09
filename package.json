@@ -1,0 +1,26 @@
+{
+"name": "task-manager-gfe",
+"version": "1.0.0",
+"description": "aims to develop a web application that assists users in managing their tasks and to-do lists efficiently. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/luciusep1991/Task-Manager.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "luciusep1991",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
